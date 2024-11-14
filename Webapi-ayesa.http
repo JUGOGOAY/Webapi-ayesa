@@ -1,0 +1,6 @@
+@Webapi_ayesa_HostAddress = http://localhost:5224
+
+GET {{Webapi_ayesa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
